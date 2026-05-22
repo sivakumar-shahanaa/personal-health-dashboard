@@ -1,24 +1,21 @@
 # Personal Health Data Dashboard
 
-# # Goals:
+Goals:
+- Pulls data from Apple Watch and Apple Health data
+- Displays a dashboard that visualizes trends over time
 
-# # # - Pulls data from Apple Watch and Apple Health data
-# # # - Displays dashboard that visualizes trends over time
+Monitors:
+- Sleep quality
+- Activity
 
-# # Monitors:
+Features:
+- Journalling feature
 
-# # # - Sleep quality
-# # # - Activity
+Data Ingestion Pipeline:
 
-# # Features:
-
-# # # - Journalling feature
-
-# # Data Ingestion Pipeline:
-
-# # # - Apple Watch
-# # # - iPhone iHealth Store
-# # # - Autoexport App
-# # # - Backend API
-# # # - Database
-# # # - Visualizations
+- Apple Watch
+- iPhone iHealth Store
+- Autoexport App
+- Backend API
+- Database
+- Visualizations
