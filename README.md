@@ -18,4 +18,3 @@ Data Ingestion Pipeline:
 - Autoexport App
 - Backend API
 - Database
-- Visualizations
