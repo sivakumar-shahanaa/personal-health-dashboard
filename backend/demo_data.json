@@ -1,0 +1,656 @@
+{
+  "biometrics": [
+    {
+      "metric": "HRV",
+      "timestamp": "2026-05-21T20:03:33Z",
+      "value": 57.4
+    },
+    {
+      "metric": "Resting Heart Rate",
+      "timestamp": "2026-05-21T20:03:33Z",
+      "value": 55.5
+    },
+    {
+      "metric": "Sleep Quality Index",
+      "timestamp": "2026-05-21T20:03:33Z",
+      "value": 69.6
+    },
+    {
+      "metric": "Steps",
+      "timestamp": "2026-05-21T20:03:33Z",
+      "value": 6657
+    },
+    {
+      "metric": "HRV",
+      "timestamp": "2026-05-22T20:03:33Z",
+      "value": 39.9
+    },
+    {
+      "metric": "Resting Heart Rate",
+      "timestamp": "2026-05-22T20:03:33Z",
+      "value": 57.0
+    },
+    {
+      "metric": "Sleep Quality Index",
+      "timestamp": "2026-05-22T20:03:33Z",
+      "value": 85.9
+    },
+    {
+      "metric": "Steps",
+      "timestamp": "2026-05-22T20:03:33Z",
+      "value": 11935
+    },
+    {
+      "metric": "HRV",
+      "timestamp": "2026-05-23T20:03:33Z",
+      "value": 38.0
+    },
+    {
+      "metric": "Resting Heart Rate",
+      "timestamp": "2026-05-23T20:03:33Z",
+      "value": 63.4
+    },
+    {
+      "metric": "Sleep Quality Index",
+      "timestamp": "2026-05-23T20:03:33Z",
+      "value": 61.0
+    },
+    {
+      "metric": "Steps",
+      "timestamp": "2026-05-23T20:03:33Z",
+      "value": 6582
+    },
+    {
+      "metric": "HRV",
+      "timestamp": "2026-05-24T20:03:33Z",
+      "value": 43.1
+    },
+    {
+      "metric": "Resting Heart Rate",
+      "timestamp": "2026-05-24T20:03:33Z",
+      "value": 67.0
+    },
+    {
+      "metric": "Sleep Quality Index",
+      "timestamp": "2026-05-24T20:03:33Z",
+      "value": 79.6
+    },
+    {
+      "metric": "Steps",
+      "timestamp": "2026-05-24T20:03:33Z",
+      "value": 13647
+    },
+    {
+      "metric": "HRV",
+      "timestamp": "2026-05-25T20:03:33Z",
+      "value": 59.5
+    },
+    {
+      "metric": "Resting Heart Rate",
+      "timestamp": "2026-05-25T20:03:33Z",
+      "value": 63.4
+    },
+    {
+      "metric": "Sleep Quality Index",
+      "timestamp": "2026-05-25T20:03:33Z",
+      "value": 75.7
+    },
+    {
+      "metric": "Steps",
+      "timestamp": "2026-05-25T20:03:33Z",
+      "value": 7557
+    },
+    {
+      "metric": "HRV",
+      "timestamp": "2026-05-26T20:03:33Z",
+      "value": 63.3
+    },
+    {
+      "metric": "Resting Heart Rate",
+      "timestamp": "2026-05-26T20:03:33Z",
+      "value": 55.1
+    },
+    {
+      "metric": "Sleep Quality Index",
+      "timestamp": "2026-05-26T20:03:33Z",
+      "value": 88.2
+    },
+    {
+      "metric": "Steps",
+      "timestamp": "2026-05-26T20:03:33Z",
+      "value": 9924
+    },
+    {
+      "metric": "HRV",
+      "timestamp": "2026-05-27T20:03:33Z",
+      "value": 46.9
+    },
+    {
+      "metric": "Resting Heart Rate",
+      "timestamp": "2026-05-27T20:03:33Z",
+      "value": 58.1
+    },
+    {
+      "metric": "Sleep Quality Index",
+      "timestamp": "2026-05-27T20:03:33Z",
+      "value": 93.5
+    },
+    {
+      "metric": "Steps",
+      "timestamp": "2026-05-27T20:03:33Z",
+      "value": 8514
+    },
+    {
+      "metric": "HRV",
+      "timestamp": "2026-05-28T20:03:33Z",
+      "value": 38.6
+    },
+    {
+      "metric": "Resting Heart Rate",
+      "timestamp": "2026-05-28T20:03:33Z",
+      "value": 62.6
+    },
+    {
+      "metric": "Sleep Quality Index",
+      "timestamp": "2026-05-28T20:03:33Z",
+      "value": 72.6
+    },
+    {
+      "metric": "Steps",
+      "timestamp": "2026-05-28T20:03:33Z",
+      "value": 8635
+    },
+    {
+      "metric": "HRV",
+      "timestamp": "2026-05-29T20:03:33Z",
+      "value": 56.1
+    },
+    {
+      "metric": "Resting Heart Rate",
+      "timestamp": "2026-05-29T20:03:33Z",
+      "value": 71.1
+    },
+    {
+      "metric": "Sleep Quality Index",
+      "timestamp": "2026-05-29T20:03:33Z",
+      "value": 85.5
+    },
+    {
+      "metric": "Steps",
+      "timestamp": "2026-05-29T20:03:33Z",
+      "value": 11785
+    },
+    {
+      "metric": "HRV",
+      "timestamp": "2026-05-30T20:03:33Z",
+      "value": 39.4
+    },
+    {
+      "metric": "Resting Heart Rate",
+      "timestamp": "2026-05-30T20:03:33Z",
+      "value": 73.4
+    },
+    {
+      "metric": "Sleep Quality Index",
+      "timestamp": "2026-05-30T20:03:33Z",
+      "value": 62.8
+    },
+    {
+      "metric": "Steps",
+      "timestamp": "2026-05-30T20:03:33Z",
+      "value": 7803
+    },
+    {
+      "metric": "HRV",
+      "timestamp": "2026-05-31T20:03:33Z",
+      "value": 64.0
+    },
+    {
+      "metric": "Resting Heart Rate",
+      "timestamp": "2026-05-31T20:03:33Z",
+      "value": 67.4
+    },
+    {
+      "metric": "Sleep Quality Index",
+      "timestamp": "2026-05-31T20:03:33Z",
+      "value": 90.2
+    },
+    {
+      "metric": "Steps",
+      "timestamp": "2026-05-31T20:03:33Z",
+      "value": 12459
+    },
+    {
+      "metric": "HRV",
+      "timestamp": "2026-06-01T20:03:33Z",
+      "value": 41.7
+    },
+    {
+      "metric": "Resting Heart Rate",
+      "timestamp": "2026-06-01T20:03:33Z",
+      "value": 56.4
+    },
+    {
+      "metric": "Sleep Quality Index",
+      "timestamp": "2026-06-01T20:03:33Z",
+      "value": 83.1
+    },
+    {
+      "metric": "Steps",
+      "timestamp": "2026-06-01T20:03:33Z",
+      "value": 7741
+    },
+    {
+      "metric": "HRV",
+      "timestamp": "2026-06-02T20:03:33Z",
+      "value": 69.5
+    },
+    {
+      "metric": "Resting Heart Rate",
+      "timestamp": "2026-06-02T20:03:33Z",
+      "value": 72.1
+    },
+    {
+      "metric": "Sleep Quality Index",
+      "timestamp": "2026-06-02T20:03:33Z",
+      "value": 90.3
+    },
+    {
+      "metric": "Steps",
+      "timestamp": "2026-06-02T20:03:33Z",
+      "value": 9227
+    },
+    {
+      "metric": "HRV",
+      "timestamp": "2026-06-03T20:03:33Z",
+      "value": 44.7
+    },
+    {
+      "metric": "Resting Heart Rate",
+      "timestamp": "2026-06-03T20:03:33Z",
+      "value": 67.7
+    },
+    {
+      "metric": "Sleep Quality Index",
+      "timestamp": "2026-06-03T20:03:33Z",
+      "value": 72.8
+    },
+    {
+      "metric": "Steps",
+      "timestamp": "2026-06-03T20:03:33Z",
+      "value": 9065
+    },
+    {
+      "metric": "HRV",
+      "timestamp": "2026-06-04T20:03:33Z",
+      "value": 47.4
+    },
+    {
+      "metric": "Resting Heart Rate",
+      "timestamp": "2026-06-04T20:03:33Z",
+      "value": 68.4
+    },
+    {
+      "metric": "Sleep Quality Index",
+      "timestamp": "2026-06-04T20:03:33Z",
+      "value": 84.6
+    },
+    {
+      "metric": "Steps",
+      "timestamp": "2026-06-04T20:03:33Z",
+      "value": 13617
+    },
+    {
+      "metric": "HRV",
+      "timestamp": "2026-06-05T20:03:33Z",
+      "value": 37.5
+    },
+    {
+      "metric": "Resting Heart Rate",
+      "timestamp": "2026-06-05T20:03:33Z",
+      "value": 67.7
+    },
+    {
+      "metric": "Sleep Quality Index",
+      "timestamp": "2026-06-05T20:03:33Z",
+      "value": 78.7
+    },
+    {
+      "metric": "Steps",
+      "timestamp": "2026-06-05T20:03:33Z",
+      "value": 7010
+    },
+    {
+      "metric": "HRV",
+      "timestamp": "2026-06-06T20:03:33Z",
+      "value": 40.7
+    },
+    {
+      "metric": "Resting Heart Rate",
+      "timestamp": "2026-06-06T20:03:33Z",
+      "value": 62.6
+    },
+    {
+      "metric": "Sleep Quality Index",
+      "timestamp": "2026-06-06T20:03:33Z",
+      "value": 94.6
+    },
+    {
+      "metric": "Steps",
+      "timestamp": "2026-06-06T20:03:33Z",
+      "value": 13485
+    },
+    {
+      "metric": "HRV",
+      "timestamp": "2026-06-07T20:03:33Z",
+      "value": 59.1
+    },
+    {
+      "metric": "Resting Heart Rate",
+      "timestamp": "2026-06-07T20:03:33Z",
+      "value": 59.4
+    },
+    {
+      "metric": "Sleep Quality Index",
+      "timestamp": "2026-06-07T20:03:33Z",
+      "value": 71.3
+    },
+    {
+      "metric": "Steps",
+      "timestamp": "2026-06-07T20:03:33Z",
+      "value": 3916
+    },
+    {
+      "metric": "HRV",
+      "timestamp": "2026-06-08T20:03:33Z",
+      "value": 43.0
+    },
+    {
+      "metric": "Resting Heart Rate",
+      "timestamp": "2026-06-08T20:03:33Z",
+      "value": 55.6
+    },
+    {
+      "metric": "Sleep Quality Index",
+      "timestamp": "2026-06-08T20:03:33Z",
+      "value": 71.0
+    },
+    {
+      "metric": "Steps",
+      "timestamp": "2026-06-08T20:03:33Z",
+      "value": 7386
+    },
+    {
+      "metric": "HRV",
+      "timestamp": "2026-06-09T20:03:33Z",
+      "value": 37.3
+    },
+    {
+      "metric": "Resting Heart Rate",
+      "timestamp": "2026-06-09T20:03:33Z",
+      "value": 73.3
+    },
+    {
+      "metric": "Sleep Quality Index",
+      "timestamp": "2026-06-09T20:03:33Z",
+      "value": 79.9
+    },
+    {
+      "metric": "Steps",
+      "timestamp": "2026-06-09T20:03:33Z",
+      "value": 8155
+    },
+    {
+      "metric": "HRV",
+      "timestamp": "2026-06-10T20:03:33Z",
+      "value": 42.4
+    },
+    {
+      "metric": "Resting Heart Rate",
+      "timestamp": "2026-06-10T20:03:33Z",
+      "value": 65.0
+    },
+    {
+      "metric": "Sleep Quality Index",
+      "timestamp": "2026-06-10T20:03:33Z",
+      "value": 91.0
+    },
+    {
+      "metric": "Steps",
+      "timestamp": "2026-06-10T20:03:33Z",
+      "value": 13532
+    },
+    {
+      "metric": "HRV",
+      "timestamp": "2026-06-11T20:03:33Z",
+      "value": 51.1
+    },
+    {
+      "metric": "Resting Heart Rate",
+      "timestamp": "2026-06-11T20:03:33Z",
+      "value": 60.3
+    },
+    {
+      "metric": "Sleep Quality Index",
+      "timestamp": "2026-06-11T20:03:33Z",
+      "value": 68.6
+    },
+    {
+      "metric": "Steps",
+      "timestamp": "2026-06-11T20:03:33Z",
+      "value": 12197
+    },
+    {
+      "metric": "HRV",
+      "timestamp": "2026-06-12T20:03:33Z",
+      "value": 53.9
+    },
+    {
+      "metric": "Resting Heart Rate",
+      "timestamp": "2026-06-12T20:03:33Z",
+      "value": 69.9
+    },
+    {
+      "metric": "Sleep Quality Index",
+      "timestamp": "2026-06-12T20:03:33Z",
+      "value": 75.0
+    },
+    {
+      "metric": "Steps",
+      "timestamp": "2026-06-12T20:03:33Z",
+      "value": 12560
+    },
+    {
+      "metric": "HRV",
+      "timestamp": "2026-06-13T20:03:33Z",
+      "value": 49.0
+    },
+    {
+      "metric": "Resting Heart Rate",
+      "timestamp": "2026-06-13T20:03:33Z",
+      "value": 59.4
+    },
+    {
+      "metric": "Sleep Quality Index",
+      "timestamp": "2026-06-13T20:03:33Z",
+      "value": 94.9
+    },
+    {
+      "metric": "Steps",
+      "timestamp": "2026-06-13T20:03:33Z",
+      "value": 11348
+    },
+    {
+      "metric": "HRV",
+      "timestamp": "2026-06-14T20:03:33Z",
+      "value": 52.3
+    },
+    {
+      "metric": "Resting Heart Rate",
+      "timestamp": "2026-06-14T20:03:33Z",
+      "value": 70.1
+    },
+    {
+      "metric": "Sleep Quality Index",
+      "timestamp": "2026-06-14T20:03:33Z",
+      "value": 90.1
+    },
+    {
+      "metric": "Steps",
+      "timestamp": "2026-06-14T20:03:33Z",
+      "value": 5504
+    },
+    {
+      "metric": "HRV",
+      "timestamp": "2026-06-15T20:03:33Z",
+      "value": 57.0
+    },
+    {
+      "metric": "Resting Heart Rate",
+      "timestamp": "2026-06-15T20:03:33Z",
+      "value": 70.8
+    },
+    {
+      "metric": "Sleep Quality Index",
+      "timestamp": "2026-06-15T20:03:33Z",
+      "value": 74.8
+    },
+    {
+      "metric": "Steps",
+      "timestamp": "2026-06-15T20:03:33Z",
+      "value": 4040
+    },
+    {
+      "metric": "HRV",
+      "timestamp": "2026-06-16T20:03:33Z",
+      "value": 48.5
+    },
+    {
+      "metric": "Resting Heart Rate",
+      "timestamp": "2026-06-16T20:03:33Z",
+      "value": 66.9
+    },
+    {
+      "metric": "Sleep Quality Index",
+      "timestamp": "2026-06-16T20:03:33Z",
+      "value": 76.4
+    },
+    {
+      "metric": "Steps",
+      "timestamp": "2026-06-16T20:03:33Z",
+      "value": 7119
+    },
+    {
+      "metric": "HRV",
+      "timestamp": "2026-06-17T20:03:33Z",
+      "value": 69.0
+    },
+    {
+      "metric": "Resting Heart Rate",
+      "timestamp": "2026-06-17T20:03:33Z",
+      "value": 72.2
+    },
+    {
+      "metric": "Sleep Quality Index",
+      "timestamp": "2026-06-17T20:03:33Z",
+      "value": 60.4
+    },
+    {
+      "metric": "Steps",
+      "timestamp": "2026-06-17T20:03:33Z",
+      "value": 4876
+    },
+    {
+      "metric": "HRV",
+      "timestamp": "2026-06-18T20:03:33Z",
+      "value": 58.9
+    },
+    {
+      "metric": "Resting Heart Rate",
+      "timestamp": "2026-06-18T20:03:33Z",
+      "value": 65.7
+    },
+    {
+      "metric": "Sleep Quality Index",
+      "timestamp": "2026-06-18T20:03:33Z",
+      "value": 69.3
+    },
+    {
+      "metric": "Steps",
+      "timestamp": "2026-06-18T20:03:33Z",
+      "value": 13501
+    },
+    {
+      "metric": "HRV",
+      "timestamp": "2026-06-19T20:03:33Z",
+      "value": 46.9
+    },
+    {
+      "metric": "Resting Heart Rate",
+      "timestamp": "2026-06-19T20:03:33Z",
+      "value": 60.9
+    },
+    {
+      "metric": "Sleep Quality Index",
+      "timestamp": "2026-06-19T20:03:33Z",
+      "value": 65.5
+    },
+    {
+      "metric": "Steps",
+      "timestamp": "2026-06-19T20:03:33Z",
+      "value": 3053
+    }
+  ],
+  "cycle_logs": [
+    {
+      "date": "2026-05-21",
+      "period_start": false,
+      "cramps_severity": 4
+    },
+    {
+      "date": "2026-05-24",
+      "period_start": false,
+      "cramps_severity": 4
+    },
+    {
+      "date": "2026-05-27",
+      "period_start": true,
+      "cramps_severity": 5
+    },
+    {
+      "date": "2026-05-30",
+      "period_start": false,
+      "cramps_severity": 5
+    },
+    {
+      "date": "2026-06-02",
+      "period_start": false,
+      "cramps_severity": 1
+    },
+    {
+      "date": "2026-06-05",
+      "period_start": false,
+      "cramps_severity": 1
+    },
+    {
+      "date": "2026-06-08",
+      "period_start": true,
+      "cramps_severity": 4
+    },
+    {
+      "date": "2026-06-11",
+      "period_start": false,
+      "cramps_severity": 3
+    },
+    {
+      "date": "2026-06-14",
+      "period_start": true,
+      "cramps_severity": 0
+    },
+    {
+      "date": "2026-06-17",
+      "period_start": false,
+      "cramps_severity": 2
+    }
+  ]
+}
