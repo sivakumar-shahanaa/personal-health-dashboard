@@ -4,7 +4,7 @@ A personal dashboard that correlates Apple Watch / Apple Health biometrics
 (HRV, resting heart rate, sleep, steps) with manually logged cycle data, to
 help spot patterns between physical recovery and hormonal cycle phases.
 
-This is a personal tool — built to run locally, with safeguards so real
+This is a personal tool built to run locally, with safeguards so real
 health data never leaves your machine or gets committed to this repo.
 
 ## Goals
@@ -50,9 +50,9 @@ Apple Watch / iPhone Health  →  Autoexport-style export  →
 To make this safe to share on GitHub, the dashboard never assumes real
 personal data is present:
 
-- `demo_data.json` — fake, fixed-seed data, committed to the repo. Anyone
+- `demo_data.json` : fake, fixed-seed data, committed to the repo. Anyone
   cloning this project gets a working demo with zero setup.
-- `my_data.json` — your real exported data. **Never committed** (see
+- `my_data.json` : your real exported data. **Never committed** (see
   `.gitignore`). If this file exists locally, `load_data.py` uses it instead
   of the demo data automatically.
 
